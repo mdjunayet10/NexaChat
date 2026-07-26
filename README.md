@@ -1,4 +1,4 @@
-# NexaChat DRF Backend — Phase 6
+# NexaChat
 
 NexaChat is an authenticated Django REST Framework chatbot backend. It provides
 JWT accounts, profiles, user-owned chat sessions and messages, secure password
